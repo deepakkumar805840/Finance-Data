@@ -1,2 +1,2 @@
 # Finance-Data
-End to End Project
+End to End Finance Data Analysis Project
